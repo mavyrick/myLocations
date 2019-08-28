@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b010786b-8fdc-4f0c-82d2-ecaba7177566" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/AppRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/AppRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/CategoriesList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/CategoriesList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/CategoriesListToolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/CategoriesListToolbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/CategoryEditForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/CategoryEditForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/CategorySelect.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/CategorySelect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/HomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/ListMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/ListMap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/LocationEditForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/LocationEditForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/LocationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/LocationForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/LocationsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/LocationsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/LocationsListToolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/LocationsListToolbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/MapScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/MapScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/components/LocationEditForm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/components/HomeScreen.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="51" column="62" selection-start-line="51" selection-start-column="62" selection-end-line="51" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>isSelected</find>
+      <find>nutrition</find>
+      <find>Locations</find>
+      <find>categories</find>
+      <find>locations</find>
+      <find>setselected</find>
+      <find>parseI</find>
+      <find>parseInt</find>
+      <find>doneEdit</find>
+      <find>lat</find>
+      <find>handleClick</find>
+      <find>maxlength</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/js/components/CategoryEditSelect</dir>
+      <dir>$PROJECT_DIR$/src/js/</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/js/components/CategoryEditSelect/CategoryEditSelect.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategoriesScreen/CategoriesScreen.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategoryEditForm/CategoryEditForm.js" />
+        <option value="$PROJECT_DIR$/src/js/components/EditCategorySelect/EditCategorySelect.js" />
+        <option value="$PROJECT_DIR$/src/js/MapContainer/MapContainer.js" />
+        <option value="$PROJECT_DIR$/src/js/MapScreen/MapScreen.js" />
+        <option value="$PROJECT_DIR$/src/js/components/Navbar/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/js/components/AppRouter/AppRouter.js" />
+        <option value="$PROJECT_DIR$/src/js/store/store.js" />
+        <option value="$PROJECT_DIR$/src/js/reducers/reducer.js" />
+        <option value="$PROJECT_DIR$/src/js/components/ListMap/ListMap.js" />
+        <option value="$PROJECT_DIR$/src/js/components/App/App.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategoryForm/CategoryForm.js" />
+        <option value="$PROJECT_DIR$/src/js/components/HomeScreen/HomeScreen.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategorySelect/CategorySelect.js" />
+        <option value="$PROJECT_DIR$/src/js/components/LocationsList/LocationsList.js" />
+        <option value="$PROJECT_DIR$/src/js/components/LocationsListToolbar/LocationsListToolbar.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategoriesList/CategoriesList.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategoriesListToolbar/CategoriesListToolbar.js" />
+        <option value="$PROJECT_DIR$/src/js/components/MapScreen/MapScreen.js" />
+        <option value="$PROJECT_DIR$/src/js/components/LocationEditForm/LocationEditForm.js" />
+        <option value="$PROJECT_DIR$/src/js/components/EditSelect/EditSelect.js" />
+        <option value="$PROJECT_DIR$/src/js/components/LocationForm/LocationForm.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategoriesScreen.js" />
+        <option value="$PROJECT_DIR$/src/js/components/LocationsScreen.js" />
+        <option value="$PROJECT_DIR$/src/js/actions/actions.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategoryForm.js" />
+        <option value="$PROJECT_DIR$/src/js/components/EditSelect.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/src/js/components/App.js" />
+        <option value="$PROJECT_DIR$/src/js/components/AppRouter.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategoriesListToolbar.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategorySelect.js" />
+        <option value="$PROJECT_DIR$/src/js/components/ListMap.js" />
+        <option value="$PROJECT_DIR$/src/js/components/LocationForm.js" />
+        <option value="$PROJECT_DIR$/src/js/components/LocationsList.js" />
+        <option value="$PROJECT_DIR$/src/js/components/LocationsListToolbar.js" />
+        <option value="$PROJECT_DIR$/src/js/components/MapScreen.js" />
+        <option value="$PROJECT_DIR$/src/js/components/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategoriesList.js" />
+        <option value="$PROJECT_DIR$/src/js/components/CategoryEditForm.js" />
+        <option value="$PROJECT_DIR$/src/js/components/LocationEditForm.js" />
+        <option value="$PROJECT_DIR$/skip.env" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/src/js/components/HomeScreen.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="62" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="823" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-locations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-locations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-locations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-locations" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-locations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-locations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-locations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-locations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-locations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-locations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/js/MapContainer" />
+      <recent name="$PROJECT_DIR$/src/js/actions" />
+      <recent name="$PROJECT_DIR$/src/js/components" />
+      <recent name="$PROJECT_DIR$/src/js/components/CategoriesListToolbar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/js/components" />
+      <recent name="$PROJECT_DIR$/src/js/components/App" />
+      <recent name="$PROJECT_DIR$/src/js/components/LocationsScreen" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b010786b-8fdc-4f0c-82d2-ecaba7177566" name="Default Changelist" comment="" />
+      <created>1565814079885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565814079885</updated>
+      <workItem from="1565814081339" duration="69356000" />
+      <workItem from="1566513047030" duration="11824000" />
+      <workItem from="1566604873306" duration="163310000" />
+      <workItem from="1566984670907" duration="4602000" />
+      <workItem from="1566990571325" duration="3827000" />
+      <workItem from="1566995992639" duration="283000" />
+      <workItem from="1566996383267" duration="4613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="257815000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="62" y="23" width="1440" height="823" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20930232" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32831737" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3287858" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19459459" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3287858" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/LocationsList/LocationsList" />
+    <entry file="file://$PROJECT_DIR$/src/LocationsList/laksjdlfj.js" />
+    <entry file="file://$PROJECT_DIR$/src/constants/Constants.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/components/CategoryForm/CategoryForm2.js" />
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/App/App.css" />
+    <entry file="file://$PROJECT_DIR$/src/js/components/CategoriesList/CategoriesOld.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/components/CategoriesList/test.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/components/CategoriesList/CategoriesList2.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/constants/action-types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/LocalStorage/localStorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/store/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/reducers/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+            <marker date="1566950396219" expanded="true" signature="2463:2659" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/actions/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/logo192.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/logo512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/AppRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/CategoriesListToolbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/CategoriesScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/CategoryForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/CategorySelect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/EditSelect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/ListMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/CategoryEditForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/LocationsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5205">
+          <caret line="347" column="30" selection-start-line="347" selection-start-column="30" selection-end-line="347" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/LocationsListToolbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="68" selection-start-line="76" selection-start-column="68" selection-end-line="76" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/LocationsScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/MapScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/CategoriesList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="146" column="60" selection-start-line="146" selection-start-column="60" selection-end-line="146" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/LocationForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2336">
+          <caret line="163" column="39" selection-start-line="163" selection-start-column="39" selection-end-line="163" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skip.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/HomeScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="51" column="62" selection-start-line="51" selection-start-column="62" selection-end-line="51" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/components/LocationEditForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
