@@ -28,7 +28,7 @@ export default function HomeScreen() {
             <ul>
                 <li>After cloning run 'npm install' to install the modules then run 'npm start' to launch.</li>
                 <br />
-                <li>I wrotew this application using only functional components with React hooks.</li>
+                <li>I wrote this application using only functional components with React hooks.</li>
                 <br />
                 <li>The global state is managed using Redux.</li>
                 <br />
